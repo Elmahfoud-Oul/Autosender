@@ -44,6 +44,8 @@ bumpChannel=your_discord_bump_channel_id
 
 The <code>bump()</code> function is declared as an asynchronous function that sends the <code>/disboard bump</code> command to the bump channel using the <code>sendSlash()</code> method from discord.js-selfbot-v13. The function then logs a message to the console using <code>console.count()</code> and schedules another bump after a random delay between 2 and 3 hours (in milliseconds) using the <code>setTimeout()</code> function.
 
-<code>This Script Was Made By Dev El Mahfoud</code>
+
 
 Finally, the client logs in to Discord using the account token from the .env file using the <code>client.login()</code> method. Once logged in, the client listens for events and runs the appropriate functions as defined in the script.
+
+<h2><code>This Script Was Made By Dev El Mahfoud</code> </h2>
