@@ -6,7 +6,7 @@
 </head>
 
 <body>
-  <h1>Auto Bump Script Steps Setup:</h1>
+  <h1>Auto Bump Script Steps Setup :</h1>
 
   <h4>
     This script is written in Node.js and uses the discord.js-selfbot-v13 library to create a self-bot that automatically bumps a Discord server using the /disboard bump command. Self-bots are against Discord's terms of service and can lead to account suspension, so it is not recommended to use this script.
